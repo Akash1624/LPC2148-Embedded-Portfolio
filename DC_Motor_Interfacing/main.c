@@ -8,8 +8,6 @@ press and turns off the DC motor on the next press.
 Submission Details:
 Name: K M AKASH
 File: DC Motor Interfacing with LPC2148
-Board 		: arm 7
-Processor 	: LPC2148
 
 Clock Settings:
 	FOSC	>>	12MHz (onboard)
