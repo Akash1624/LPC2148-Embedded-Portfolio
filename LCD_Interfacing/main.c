@@ -7,8 +7,7 @@ LCD Module
 Submission Details:
 Name: K M AKASH
 File: LCD Interfacing to LPC2148
-Board 		: arm 7
-Processor 	: LPC2148
+Board 	: LPC2148
 
 Clock Settings:
 	FOSC : 12MHZ
