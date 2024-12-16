@@ -4,9 +4,7 @@ This program generates square wave
 /****************************************************
 
 Submission Details:
-Name: K M AKASH, RAKESH SG, ASHWINI JAYSHETTY
-Reg No: 241039022, 241039034, 241039021
-Branch: Embedded Systems
+Name: K M AKASH
 File: DAC file
 
 Clock Settings:
