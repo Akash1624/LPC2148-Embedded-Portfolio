@@ -7,9 +7,6 @@ press.
 Submission Details:
 Name: K M AKASH
 File: LED & Push Button Interfacing to LPC2148
-Board 		: arm 7
-Processor 	: LPC2148
-
 
 Clock Settings:
 	FOSC	>>	12MHz (onboard)
